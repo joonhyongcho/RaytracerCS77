@@ -1,5 +1,7 @@
 # Raytracer
 
+A raytracer program for CS77: Graphics
+
 ## Getting Started
 
 1. Install QT Creator  
@@ -41,3 +43,5 @@ Created by Joon Cho and Josh Utter back for CS 77: Computer Graphics (Spring 201
 ### Contributions
 
 We implemented these features on top of a Raytracer framework provided by Professor Emily Whiting of Dartmouth
+
+
