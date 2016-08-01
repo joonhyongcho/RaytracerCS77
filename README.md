@@ -34,10 +34,10 @@ To generate and view a test scene, write:
 - Indirect Lighting
 - One final cool scene
 
-### Contributions
-
-We implemented these features on top of a Raytracer framework provided by Professor Emily Whiting of Dartmouth
-
 ## Authors
 
 Created by Joon Cho and Josh Utter back for CS 77: Computer Graphics (Spring 2015)
+
+### Contributions
+
+We implemented these features on top of a Raytracer framework provided by Professor Emily Whiting of Dartmouth
