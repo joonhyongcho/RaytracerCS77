@@ -1,6 +1,6 @@
 # Raytracer
 
-A raytracer program for CS77: Graphics
+A raytracer program for CS77: Graphics. Examples of image transformations can be found in Report.pdf
 
 ## Getting Started
 
